@@ -57,3 +57,4 @@ export function getGenresLocalStorege(genreIds) {
 
   return nameGenresSlice.join(', ');
 }
+

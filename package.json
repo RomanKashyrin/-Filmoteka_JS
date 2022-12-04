@@ -5,7 +5,7 @@
   "homepage": "https://romankashyrin.github.io/-Filmoteka_JS/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka_JS/"
+    "build": "parcel build src/*.html --public-url /-Filmoteka_JS/"
   },
   "repository": {
     "type": "git",
